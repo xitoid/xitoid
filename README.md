@@ -13,8 +13,8 @@ Beginer Web Developer here.
 - ⚡ Fun fact: ... -->
 
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/?username=xitoid&show_icons=true&hide_border=true&hide_title=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/?username=xitoid&show_icons=true&hide_border=true&hide_title=true">
 <hr>
 
 ### Get in Touch
-<a href="https://xitoid.com" target="blank"><img src="https://img.shields.io/badge/Website-https://xitoid.com-purple?" /></a>
+<a href="https://xitoid.com" target="blank"><img src="https://img.shields.io/badge/Website-https://xitoid.com-blue?" /></a>
